@@ -1,0 +1,14 @@
+body {
+    background: gainsboro;
+}
+
+.container {
+    background: #fff;
+    margin-top: 25px;
+    padding: 50;
+}
+
+.app-title {
+    padding: 15px;
+    text-align: center;
+}
